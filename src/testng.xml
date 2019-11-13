@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="TestNG session Test Automation Suite" >
+    <test name="Different testng feature test"   >
+        <classes>
+            <class name="com.test.GoogleTest" />
+            <class name="com.test.GoogleTitleAssertionTest" />
+            <class name="com.test.ExpectedExceptionsTest" />
+        </classes>
+    </test>
+</suite>

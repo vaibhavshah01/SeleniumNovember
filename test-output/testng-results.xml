@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="65219" started-at="2019-11-12T06:06:42 GMT" finished-at="2019-11-12T06:07:48 GMT">
+    <groups>
+      <group name="test">
+        <method signature="GoogleTest.test1()[pri:0, instance:com.test.GoogleTest@1e965684]" name="test1" class="com.test.GoogleTest"/>
+        <method signature="GoogleTest.test2()[pri:0, instance:com.test.GoogleTest@1e965684]" name="test2" class="com.test.GoogleTest"/>
+      </group> <!-- test -->
+      <group name="google">
+        <method signature="GoogleTest.googleLogoTest()[pri:0, instance:com.test.GoogleTest@1e965684]" name="googleLogoTest" class="com.test.GoogleTest"/>
+        <method signature="GoogleTest.googleTitleTest()[pri:0, instance:com.test.GoogleTest@1e965684]" name="googleTitleTest" class="com.test.GoogleTest"/>
+        <method signature="GoogleTest.mailLinkTest()[pri:0, instance:com.test.GoogleTest@1e965684]" name="mailLinkTest" class="com.test.GoogleTest"/>
+      </group> <!-- google -->
+    </groups>
+    <test name="SeleniumNovember" duration-ms="65219" started-at="2019-11-12T06:06:42 GMT" finished-at="2019-11-12T06:07:48 GMT">
+      <class name="com.test.GoogleTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.GoogleTest@1e965684]" name="setUp" is-config="true" duration-ms="35146" started-at="2019-11-12T06:06:43 GMT" finished-at="2019-11-12T06:07:18 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="googleLogoTest()[pri:0, instance:com.test.GoogleTest@1e965684]" name="googleLogoTest" duration-ms="896" started-at="2019-11-12T06:07:18 GMT" finished-at="2019-11-12T06:07:19 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleLogoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.GoogleTest@1e965684]" name="tearDown" is-config="true" duration-ms="917" started-at="2019-11-12T06:07:19 GMT" finished-at="2019-11-12T06:07:20 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.GoogleTest@1e965684]" name="setUp" is-config="true" duration-ms="6778" started-at="2019-11-12T06:07:20 GMT" finished-at="2019-11-12T06:07:26 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="googleTitleTest()[pri:0, instance:com.test.GoogleTest@1e965684]" name="googleTitleTest" duration-ms="11" started-at="2019-11-12T06:07:26 GMT" finished-at="2019-11-12T06:07:26 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.GoogleTest@1e965684]" name="tearDown" is-config="true" duration-ms="1413" started-at="2019-11-12T06:07:26 GMT" finished-at="2019-11-12T06:07:28 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.GoogleTest@1e965684]" name="setUp" is-config="true" duration-ms="6652" started-at="2019-11-12T06:07:28 GMT" finished-at="2019-11-12T06:07:34 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="mailLinkTest()[pri:0, instance:com.test.GoogleTest@1e965684]" name="mailLinkTest" duration-ms="101" started-at="2019-11-12T06:07:34 GMT" finished-at="2019-11-12T06:07:35 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mailLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.GoogleTest@1e965684]" name="tearDown" is-config="true" duration-ms="813" started-at="2019-11-12T06:07:35 GMT" finished-at="2019-11-12T06:07:35 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.GoogleTest@1e965684]" name="setUp" is-config="true" duration-ms="5233" started-at="2019-11-12T06:07:35 GMT" finished-at="2019-11-12T06:07:41 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.test.GoogleTest@1e965684]" name="test1" duration-ms="0" started-at="2019-11-12T06:07:41 GMT" finished-at="2019-11-12T06:07:41 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.GoogleTest@1e965684]" name="tearDown" is-config="true" duration-ms="711" started-at="2019-11-12T06:07:41 GMT" finished-at="2019-11-12T06:07:41 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.GoogleTest@1e965684]" name="setUp" is-config="true" duration-ms="5465" started-at="2019-11-12T06:07:41 GMT" finished-at="2019-11-12T06:07:47 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:com.test.GoogleTest@1e965684]" name="test2" duration-ms="0" started-at="2019-11-12T06:07:47 GMT" finished-at="2019-11-12T06:07:47 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.GoogleTest@1e965684]" name="tearDown" is-config="true" duration-ms="884" started-at="2019-11-12T06:07:47 GMT" finished-at="2019-11-12T06:07:48 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.test.GoogleTest -->
+    </test> <!-- SeleniumNovember -->
+  </suite> <!-- Default Suite -->
+</testng-results>

@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="546e14e6-3a30-40ba-aa7b-5a00bc5e7c48" name="Default Changelist" comment="" />
+    <list default="true" id="546e14e6-3a30-40ba-aa7b-5a00bc5e7c48" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/NoverberSeleniumPractice/ElementVisibillityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NoverberSeleniumPractice/HeadlessChromeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NoverberSeleniumPractice/HtmlUnitDriverConcept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NoverberSeleniumPractice/testngNotes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/ExceptionTimeOutTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/ExpectedExceptionsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/GoogleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/GoogleTitleAssertionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/InvocationCountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/TestNgBasics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/TestNgFeatures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/testngNotes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/NoverberSeleniumPractice/ReadPropFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/NoverberSeleniumPractice/ReadPropFile.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -10,45 +27,14 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="190" />
+  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/NoverberSeleniumPractice/config.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/NoverberSeleniumPractice/ReadPropFile.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="59" column="48" selection-start-line="59" selection-start-column="48" selection-end-line="59" selection-end-column="48" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/NoverberSeleniumPractice/LocatorConcept.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="21" column="8" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="46" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -56,6 +42,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -71,12 +60,24 @@
         <option value="$PROJECT_DIR$/src/main/java/NoverberSeleniumPractice/DragAndDropConcept.java" />
         <option value="$PROJECT_DIR$/src/main/java/NoverberSeleniumPractice/ImplicitWaitConcept.java" />
         <option value="$PROJECT_DIR$/src/main/java/NoverberSeleniumPractice/Navigations.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/NoverberSeleniumPractice/TakeScreenShotConcept.java" />
         <option value="$PROJECT_DIR$/src/main/java/NoverberSeleniumPractice/ExplicitWaitConcept.java" />
         <option value="$PROJECT_DIR$/src/main/java/NoverberSeleniumPractice/HandleWindowPopUp.java" />
         <option value="$PROJECT_DIR$/src/main/java/NoverberSeleniumPractice/config.properties" />
         <option value="$PROJECT_DIR$/src/main/java/NoverberSeleniumPractice/ReadPropFile.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/NoverberSeleniumPractice/HtmlUnitDriverConcept.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NoverberSeleniumPractice/ElementVisibillityTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NoverberSeleniumPractice/HeadlessChromeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/test/TestNgBasics.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NoverberSeleniumPractice/testngNotes" />
+        <option value="$PROJECT_DIR$/src/main/java/com/test/GoogleTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/test/TestNgFeatures.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/test/InvocationCountTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/test/ExceptionTimeOutTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/test/ExpectedExceptionsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/test/GoogleTitleAssertionTest.java" />
+        <option value="$PROJECT_DIR$/src/testng.xml" />
       </list>
     </option>
   </component>
@@ -87,12 +88,24 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="SeleniumNovember" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -110,52 +123,12 @@
               <item name="SeleniumNovember" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="SeleniumNovember" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumNovember" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SeleniumNovember" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumNovember" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SeleniumNovember" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumNovember" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="NoverberSeleniumPractice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SeleniumNovember" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumNovember" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="Resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SeleniumNovember" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumNovember" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="Resources" type="462c0819:PsiDirectoryNode" />
-              <item name="BrowserDriver" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SeleniumNovember" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -163,14 +136,16 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/Resources/BrowserDriver" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/test" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev\SeleniumNovember\src\main\java\com\test" />
       <recent name="C:\dev\SeleniumNovember\src\main\Resources\BrowserDriver" />
     </key>
   </component>
@@ -186,79 +161,161 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReadPropFile">
-    <configuration name="ExplicitWaitConcept" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NoverberSeleniumPractice.ExplicitWaitConcept" />
+  <component name="RunManager" selected="TestNG.C:/dev/SeleniumNovember/src/testng.xml">
+    <configuration name="C:/dev/SeleniumNovember/src/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumNovember" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="NoverberSeleniumPractice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/testng.xml" />
+      <option name="PACKAGE_NAME" value="com.test" />
+      <option name="MAIN_CLASS_NAME" value="com.test.GoogleTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="C:\dev\SeleniumNovember\src\main\Resources\BrowserDriver" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HandleWindowPopUp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NoverberSeleniumPractice.HandleWindowPopUp" />
+    <configuration name="GoogleTitleAssertionTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumNovember" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="NoverberSeleniumPractice.*" />
+          <option name="PATTERN" value="com.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.test" />
+      <option name="MAIN_CLASS_NAME" value="com.test.GoogleTitleAssertionTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="C:\dev\SeleniumNovember\src\main\Resources\BrowserDriver" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Navigations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NoverberSeleniumPractice.Navigations" />
+    <configuration name="GoogleTitleAssertionTest.googleLogoTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumNovember" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="NoverberSeleniumPractice.*" />
+          <option name="PATTERN" value="com.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.test" />
+      <option name="MAIN_CLASS_NAME" value="com.test.GoogleTitleAssertionTest" />
+      <option name="METHOD_NAME" value="googleLogoTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="C:\dev\SeleniumNovember\src\main\Resources\BrowserDriver" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadPropFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NoverberSeleniumPractice.ReadPropFile" />
+    <configuration name="GoogleTitleAssertionTest.googleTitleTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumNovember" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="NoverberSeleniumPractice.*" />
+          <option name="PATTERN" value="com.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.test" />
+      <option name="MAIN_CLASS_NAME" value="com.test.GoogleTitleAssertionTest" />
+      <option name="METHOD_NAME" value="googleTitleTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="C:\dev\SeleniumNovember\src\main\Resources\BrowserDriver" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TakeScreenShotConcept" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NoverberSeleniumPractice.TakeScreenShotConcept" />
-      <module name="SeleniumNovember" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="NoverberSeleniumPractice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration default="true" type="TestNG">
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.test" />
+      <option name="MAIN_CLASS_NAME" value="com.test.GoogleTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="C:\dev\SeleniumNovember\src\main\Resources\BrowserDriver" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumNovember" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.test" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="C:\dev\SeleniumNovember\src\main\Resources\BrowserDriver" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.GoogleTitleAssertionTest" />
+      <item itemvalue="TestNG.GoogleTitleAssertionTest.googleTitleTest" />
+      <item itemvalue="TestNG.GoogleTitleAssertionTest.googleLogoTest" />
+      <item itemvalue="TestNG.com.test" />
+      <item itemvalue="TestNG.C:/dev/SeleniumNovember/src/testng.xml" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReadPropFile" />
-        <item itemvalue="Application.HandleWindowPopUp" />
-        <item itemvalue="Application.ExplicitWaitConcept" />
-        <item itemvalue="Application.TakeScreenShotConcept" />
-        <item itemvalue="Application.Navigations" />
+        <item itemvalue="TestNG.C:/dev/SeleniumNovember/src/testng.xml" />
+        <item itemvalue="TestNG.com.test" />
+        <item itemvalue="TestNG.GoogleTitleAssertionTest.googleLogoTest" />
+        <item itemvalue="TestNG.GoogleTitleAssertionTest.googleTitleTest" />
+        <item itemvalue="TestNG.GoogleTitleAssertionTest" />
       </list>
     </recent_temporary>
   </component>
@@ -275,12 +332,43 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="GoogleTitleAssertionTest - 2019.11.13 at 05h 47m 52s.xml">
+      <configuration name="GoogleTitleAssertionTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GoogleTitleAssertionTest - 2019.11.13 at 05h 49m 52s.xml">
+      <configuration name="GoogleTitleAssertionTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GoogleTitleAssertionTest_googleTitleTest - 2019.11.13 at 05h 53m 37s.xml">
+      <configuration name="GoogleTitleAssertionTest.googleTitleTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GoogleTitleAssertionTest_googleTitleTest - 2019.11.13 at 05h 56m 01s.xml">
+      <configuration name="GoogleTitleAssertionTest.googleTitleTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GoogleTitleAssertionTest_googleLogoTest - 2019.11.13 at 06h 06m 11s.xml">
+      <configuration name="GoogleTitleAssertionTest.googleLogoTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GoogleTitleAssertionTest_googleLogoTest - 2019.11.13 at 06h 12m 03s.xml">
+      <configuration name="GoogleTitleAssertionTest.googleLogoTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GoogleTitleAssertionTest_googleLogoTest - 2019.11.13 at 06h 12m 44s.xml">
+      <configuration name="GoogleTitleAssertionTest.googleLogoTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GoogleTitleAssertionTest_googleLogoTest - 2019.11.13 at 06h 14m 34s.xml">
+      <configuration name="GoogleTitleAssertionTest.googleLogoTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__dev_SeleniumNovember_src_testng_xml - 2019.11.13 at 06h 51m 11s.xml">
+      <configuration name="C:/dev/SeleniumNovember/src/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__dev_SeleniumNovember_src_testng_xml - 2019.11.13 at 07h 04m 23s.xml">
+      <configuration name="C:/dev/SeleniumNovember/src/testng.xml" configurationId="TestNG" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2655068" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989339" visible="true" weight="0.24886535" />
+      <window_info id="Structure" order="1" sideWeight="0.5010661" side_tool="true" weight="0.2397882" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -288,12 +376,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23240589" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31096563" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3289689" />
@@ -301,14 +389,15 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.32980332" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32980332" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24659607" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989339" visible="true" weight="0.2397882" />
+      <window_info id="Structure" order="1" sideWeight="0.5010661" side_tool="true" weight="0.2397882" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -316,12 +405,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.23240589" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23240589" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3289689" />
@@ -335,6 +424,11 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout-to-restore>
   </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SeleniumNovember$GoogleTest.ic" NAME="GoogleTest Coverage Results" MODIFIED="1573501288633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.test.*</FILTER>
+    </SUITE>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/SeleniumNovember/AppTest.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -343,110 +437,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/NoverberSeleniumPractice/HandleDropBox.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/NoverberSeleniumPractice/AlertPopUpHandle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/NoverberSeleniumPractice/HandleFileUploadPopUp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/NoverberSeleniumPractice/MouseMovementConcept.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="20" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/NoverberSeleniumPractice/DragAndDropConcept.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="22" column="64" selection-start-line="22" selection-start-column="64" selection-end-line="22" selection-end-column="64" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/NoverberSeleniumPractice/nopcommerce.png">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/NoverberSeleniumPractice/ExplicitWaitConcept.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="24" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/NoverberSeleniumPractice/FrameHandling.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="18" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/NoverberSeleniumPractice/TakeScreenShotConcept.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="158">
           <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/NoverberSeleniumPractice/HandleWindowPopUp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="52" column="69" selection-start-line="52" selection-start-column="69" selection-end-line="52" selection-end-column="69" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/NoverberSeleniumPractice/ImplicitWaitConcept.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="46" selection-start-line="10" selection-start-column="8" selection-end-line="13" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -463,6 +460,76 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NoverberSeleniumPractice/LocatorConcept.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NoverberSeleniumPractice/ReadPropFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NoverberSeleniumPractice/HandleFileUploadPopUp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NoverberSeleniumPractice/FrameHandling.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="28" selection-start-line="23" selection-start-column="7" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NoverberSeleniumPractice/ImplicitWaitConcept.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NoverberSeleniumPractice/HandleWindowPopUp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="36" column="41" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NoverberSeleniumPractice/MouseMovementConcept.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="20" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/NoverberSeleniumPractice/Navigations.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -473,20 +540,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/NoverberSeleniumPractice/LocatorConcept.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/NoverberSeleniumPractice/HandleDropBox.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="21" column="8" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="46" />
+        <state relative-caret-position="178">
+          <caret line="17" column="60" selection-start-line="16" selection-start-column="8" selection-end-line="17" selection-end-column="60" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/NoverberSeleniumPractice/ReadPropFile.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/NoverberSeleniumPractice/HtmlUnitDriverConcept.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="59" column="48" selection-start-line="59" selection-start-column="48" selection-end-line="59" selection-end-column="48" />
+        <state>
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -496,7 +562,161 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/NoverberSeleniumPractice/config.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NoverberSeleniumPractice/DragAndDropConcept.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="7" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="20" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NoverberSeleniumPractice/ExplicitWaitConcept.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NoverberSeleniumPractice/HeadlessChromeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="13" column="111" selection-start-line="12" selection-start-column="7" selection-end-line="13" selection-end-column="111" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NoverberSeleniumPractice/ElementVisibillityTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1000">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NoverberSeleniumPractice/AlertPopUpHandle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SeleniumNovember.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-output/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-863" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NoverberSeleniumPractice/testngNotes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/test/testngNotes">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/test/TestNgFeatures.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/test/InvocationCountTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/test/ExceptionTimeOutTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/test/TestNgBasics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#533#534#0" expanded="true" />
+            <element signature="e#583#584#0" expanded="true" />
+            <element signature="e#631#632#0" expanded="true" />
+            <element signature="e#675#676#0" expanded="true" />
+            <element signature="e#731#732#0" expanded="true" />
+            <element signature="e#787#788#0" expanded="true" />
+            <element signature="e#840#841#0" expanded="true" />
+            <element signature="e#891#892#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/test/ExpectedExceptionsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="57" selection-start-line="6" selection-start-column="57" selection-end-line="6" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/test/GoogleTitleAssertionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="940">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1813#1814#0" expanded="true" />
+            <element signature="e#1842#1843#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/test/GoogleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="41" column="30" selection-start-line="37" selection-start-column="4" selection-end-line="41" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1688#1689#0" expanded="true" />
+            <element signature="e#1731#1732#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
         </state>
       </provider>
     </entry>

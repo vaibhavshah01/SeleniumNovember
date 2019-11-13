@@ -1,0 +1,19 @@
+testNG- testing new generation framework
+TDD framework - Test Driven development
+testNG- unit test framework
+automation Engineer -write test cases and integrated with selenium
+very powerful tool -give many options and features to design the test cases
+purpose-- design the test cases in a systematic way
+open source -freely available
+available in the form of JAR files
+- also called java unit testing framework
+-Advantages 1) design test cases in systematic way
+            2) generate very good html reports
+            3) it's give different annotations
+            4)different features help like priorities (sequence of test cases define)
+            5)feature: dependency (define dependency as well)
+            6)feature: grouping (define grouping as well)
+            7)feature: data provider
+            8)it print html report by index.html
+
+every annotations associated with method
